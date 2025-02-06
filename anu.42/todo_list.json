@@ -1,0 +1,14 @@
+[
+    {
+        "task": "study",
+        "done": false
+    },
+    {
+        "task": "study",
+        "done": true
+    },
+    {
+        "task": "library",
+        "done": false
+    }
+]
